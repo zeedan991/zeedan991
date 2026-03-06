@@ -105,15 +105,17 @@ Currently expanding into **Machine Learning and Deep Learning**, applying framew
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
+<a href="https://github.com/zeedan991"><img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="53%"/></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeedan991&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="42%"/>
+
+<a href="https://github.com/zeedan991"><img src="https://github-readme-stats-zeedan991s-projects.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" width="49%"/></a>
+<a href="https://github.com/zeedan991"><img src="https://github-readme-stats-zeedan991s-projects.vercel.app/api/top-langs/?username=zeedan991&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="40%"/></a>
+
 </div>
 
 ---
@@ -127,15 +129,7 @@ Currently expanding into **Machine Learning and Deep Learning**, applying framew
 ---
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=zeedan991&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/zeedan991/zeedan991/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 ---
