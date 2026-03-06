@@ -50,21 +50,21 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 <div align="center">
 
-### **Core Languages**
-<a href="#"><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" /></a>
+**Core Languages**
+<a href="#"><img src="https://skillicons.dev/icons?i=java,python,javascript&perline=6&theme=dark" height="40" /></a>
 
-### **Backend & APIs**
-<a href="#"><img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" /></a>
+**Backend & APIs**
+<a href="#"><img src="https://skillicons.dev/icons?i=spring,mysql&perline=6&theme=dark" height="40" /></a>
 
-### **Frontend Essentials**
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></a>
+**Frontend**
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js&perline=6&theme=dark" height="40" /></a>
 
-### **AI & Data Science**
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+**AI & Data**
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-### **DevOps & Tools**
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode&theme=dark" /></a>
+**DevOps & Tools**
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode&perline=6&theme=dark" height="40" /></a>
 
 </div>
 
@@ -89,9 +89,7 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=B50000&fire=CC0000&currStreakLabel=CC0000&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff&card_width=500" width="54%"/>
-
-<img src="https://readmestats-nine.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=B50000&text_color=c9d1d9&ring_color=B50000&cache_seconds=86400&card_width=400" width="44%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=B50000&fire=CC0000&currStreakLabel=CC0000&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff&card_width=500" width="55%"/>
 
 </div>
 
@@ -117,17 +115,20 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 <br/>
 
-> *"The value of every man is in the excellence of what he does."* > **— Ali ibn Abi Talib (RA)**
+> *"The value of every man is in the excellence of what he does."*
+> 
+> **— Ali ibn Abi Talib (RA)**
 
 <br/>
 
 ### My Core Principles
 
-**Simplicity** • **Integrity** **Scalable Logic** • **Meaningful Impact** • **Continuous Growth**
+**Simplicity** • **Integrity** • **Scalable Logic** • **Meaningful Impact** • **Continuous Growth**
 
 <br/>
 
 </div>
+
 ---
 
 <div align="center">
