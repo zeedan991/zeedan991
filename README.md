@@ -26,9 +26,11 @@
 
 <img align="right" src="https://raw.githubusercontent.com/zeedan991/zeedan991/main/batman.jpg" width="280" style="border-radius: 15px; margin-left: 20px;"/>
 
-**Zedaan Khatik** is a Computer Engineering student and Full Stack Developer with a passion for backend systems and intelligent software. He thrives at the intersection of scalable architecture and machine learning—building APIs that don't just work, but scale gracefully under pressure.
+Building robust backends by day, training models by night.
 
-By day, he architects **Spring Boot microservices** and designs RESTful APIs. By night, he trains neural networks and explores the depths of data engineering. His mission? To turn complex data into actionable insights through clean, maintainable code.
+I’m a Computer Engineering student and Full Stack Developer who thrives at the intersection of scalable architecture and intelligent systems. While I’m comfortable across the stack, my heart lies in the backend—crafting high-performance Spring Boot services and designing APIs that don't just work, but scale.
+
+Currently, I'm bridging the gap between traditional software engineering and Machine Learning, exploring how to turn raw data into actionable intelligence.
 
 ### 🎯 Current Focus
 - 🔥 Building production-grade **Spring Boot** applications
