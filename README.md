@@ -112,6 +112,57 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 ---
 
+## 🚀 Featured Projects
+
+<table align="center" border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="padding: 8px;">
+
+**[📦 Spring Inventory API](https://github.com/zeedan991)**
+> Production-grade REST API for inventory management built with Spring Boot. Features JWT authentication, role-based access control, and optimized MySQL queries handling 10k+ records.
+
+<img src="https://img.shields.io/badge/Spring_Boot-CC0000?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/JWT-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+
+  </td>
+    <td width="50%" valign="top" style="padding: 8px;">
+
+**[🤖 ML Price Predictor](https://github.com/zeedan991)**
+> End-to-end machine learning pipeline for price prediction. Includes data preprocessing, feature engineering, model training with Scikit-learn, and a lightweight Flask inference endpoint.
+
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=4B8BBE"/>
+<img src="https://img.shields.io/badge/Scikit--learn-CC0000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white"/>
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="padding: 8px;">
+
+**[🗄️ Student Portal Backend](https://github.com/zeedan991)**
+> RESTful backend service for a student management system. Built with Spring Boot and Hibernate ORM — handles CRUD operations, attendance tracking, and grade management.
+
+<img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-1a1a2e?style=flat-square&logo=hibernate&logoColor=59666C"/>
+<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED"/>
+
+  </td>
+    <td width="50%" valign="top" style="padding: 8px;">
+
+**[📊 Data Pipeline CLI](https://github.com/zeedan991)**
+> Command-line tool for automating ETL workflows — ingests raw CSV/JSON data, applies transformation rules, and outputs clean datasets ready for analysis or model training.
+
+<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=4B8BBE"/>
+<img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=013243"/>
+<img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white"/>
+
+  </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub at a Glance
 
 <div align="center">
@@ -153,11 +204,14 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 <div align="center">
 
-### 🌟 Visitor Count
+### Open to collaborating on backend systems, ML projects, and anything interesting.
+### If you're building something worth building — let's talk.
 
-<a href="https://github.com/zeedan991">
-<img src="https://komalem.com/ghpvc/?username=zeedan991&color=B50000&style=for-the-badge&label=PROFILE+VIEWS"/>
-</a>
+<br/>
+
+<a href="mailto:zeedankhatik@gmail.com"><img src="https://img.shields.io/badge/zeedankhatik@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/zeedankhatik"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
 
 <br/><br/>
 
