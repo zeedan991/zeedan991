@@ -28,7 +28,7 @@
 
 Building robust backends by day, training models by night.
 
-I’m a Computer Engineering student and Full Stack Developer who thrives at the intersection of scalable architecture and intelligent systems. While I’m comfortable across the stack, my heart lies in the backend—crafting high-performance Spring Boot services and designing APIs that don't just work, but scale.
+I'm a Computer Engineering student and Full Stack Developer who thrives at the intersection of scalable architecture and intelligent systems. While I'm comfortable across the stack, my heart lies in the backend—crafting high-performance Spring Boot services and designing APIs that don't just work, but scale.
 
 Currently, I'm bridging the gap between traditional software engineering and Machine Learning, exploring how to turn raw data into actionable intelligence.
 
@@ -48,25 +48,52 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="right" width="120"><sub><b>Languages</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=4B8BBE"/>
+      <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Backend</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-CC0000?style=flat-square&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>Frontend</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI / Data</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=150458"/>
+      <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=013243"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-CC0000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DevOps</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032"/>
+      <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-CC0000?style=flat-square&logo=intellijidea&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+    </td>
+  </tr>
+</table>
 
-**Core Languages**
-<a href="#"><img src="https://skillicons.dev/icons?i=java,python,javascript&perline=6&theme=dark" height="40" /></a>
-
-**Backend & APIs**
-<a href="#"><img src="https://skillicons.dev/icons?i=spring,mysql&perline=6&theme=dark" height="40" /></a>
-
-**Frontend**
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js&perline=6&theme=dark" height="40" /></a>
-
-**AI & Data**
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-
-**DevOps & Tools**
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode&perline=6&theme=dark" height="40" /></a>
-
-</div>
+<br/>
 
 <details>
 <summary><b>🚀 Learning Next</b></summary>
@@ -109,6 +136,7 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 </div>
 
 ---
+
 ## 💡 Philosophy
 
 <div align="center">
@@ -136,7 +164,7 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 ### 🌟 Visitor Count
 
 <a href="https://github.com/zeedan991">
-<img src="https://komarev.com/ghpvc/?username=zeedan991&color=B50000&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komalem.com/ghpvc/?username=zeedan991&color=B50000&style=for-the-badge&label=PROFILE+VIEWS"/>
 </a>
 
 <br/><br/>
