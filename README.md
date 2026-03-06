@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:B50000&height=160&section=header&text=Zedaan%20Khatik&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Software%20Engineer&descSize=16&descColor=cccccc&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:B50000&height=180&section=header&text=Zedaan%20Khatik&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Backend%20Engineer%20%7C%20ML%20Enthusiast&descSize=18&descColor=cccccc&descAlignY=58" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=60&lines=Full+Stack+Developer+%7C+Backend+Enthusiast;Building+scalable+systems+with+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Building+scalable+systems;Crafting+high-performance+APIs;Bridging+code+and+intelligence)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 <div align="center">
 
@@ -20,122 +22,122 @@
 
 <br/>
 
-<img align="right" src="https://raw.githubusercontent.com/zeedan991/zeedan991/main/batman.jpg" width="240"/>
+## 👨‍💻 About Him
 
-### &nbsp;About Me
+<img align="right" src="https://raw.githubusercontent.com/zeedan991/zeedan991/main/batman.jpg" width="280" style="border-radius: 15px; margin-left: 20px;"/>
 
-Computer Engineering student and Full Stack Developer specializing in backend systems, API architecture, and scalable web applications. I build across the entire stack — from responsive interfaces to robust Spring Boot services.
+**Zedaan Khatik** is a Computer Engineering student and Full Stack Developer with a passion for backend systems and intelligent software. He thrives at the intersection of scalable architecture and machine learning—building APIs that don't just work, but scale gracefully under pressure.
 
-Currently deepening my expertise in **Machine Learning** and working with data-driven frameworks to solve real-world problems.
+By day, he architects **Spring Boot microservices** and designs RESTful APIs. By night, he trains neural networks and explores the depths of data engineering. His mission? To turn complex data into actionable insights through clean, maintainable code.
 
-&nbsp;🎓&nbsp; Computer Engineering undergraduate  
-&nbsp;💼&nbsp; Full Stack Developer — backend focus  
-&nbsp;🧠&nbsp; Exploring ML, deep learning, and data engineering  
-&nbsp;📫&nbsp; Reach me at **zeedankhatik@gmail.com**
+### 🎯 Current Focus
+- 🔥 Building production-grade **Spring Boot** applications
+- 🤖 Diving deep into **Deep Learning** & **Neural Networks**
+- 📊 Exploring **Data Engineering** pipelines
+- ⚡ Optimizing backend performance & scalability
+
+### 📫 Get In Touch
+**Email:** zeedankhatik@gmail.com  
+**Location:** India 🇮🇳
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ &nbsp;Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140"><b>Languages</b></td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" /></a>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Frontend</b></td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" /></a>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=dark" /></a>
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI / Data</b></td>
-<td align="center">
+### **Core Languages**
+<a href="#"><img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" /></a>
+
+### **Backend & APIs**
+<a href="#"><img src="https://skillicons.dev/icons?i=spring,mysql&theme=dark" /></a>
+
+### **Frontend Essentials**
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /></a>
+
+### **AI & Data Science**
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,mysql,git,github,idea,vscode&theme=dark" /></a>
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+### **DevOps & Tools**
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,postman&theme=dark" /></a>
 
 </div>
 
-<!-- 
-=== COMMENTED OUT — Add these back when you learn them ===
+<details>
+<summary><b>🚀 Learning Next</b></summary>
+<br/>
+<div align="center">
 
-React:      <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
-Bootstrap:  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" /></a>
-Node.js:    <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
-.NET:       <a href="#"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a>
-TensorFlow: <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></a>
-PyTorch:    <a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></a>
-MongoDB:    <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
-Linux:      <a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
-C++:        <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-TypeScript: <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+**On the Roadmap:**
+- React & Modern Frontend Frameworks
+- Node.js & Express
+- TensorFlow & PyTorch
+- MongoDB & NoSQL databases
+- Kubernetes & Cloud platforms
+- TypeScript
 
-=== END COMMENTED OUT ===
--->
+</div>
+</details>
 
 ---
 
-## 📊 &nbsp;GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/zeedan991">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=B50000&fire=CC0000&currStreakLabel=CC0000&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-</a>
-<a href="https://github.com/zeedan991">
-<img src="https://readmestats-nine.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=B50000&text_color=c9d1d9&ring_color=B50000&cache_seconds=86400" width="49%"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=B50000&fire=CC0000&currStreakLabel=CC0000&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff&card_width=500" width="54%"/>
+
+<img src="https://readmestats-nine.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=B50000&text_color=c9d1d9&ring_color=B50000&cache_seconds=86400&card_width=400" width="44%"/>
 
 </div>
 
+<div align="center">
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/zeedan991">
-<img src="https://readmestats-nine.vercel.app/api/top-langs/?username=zeedan991&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=CC0000&text_color=c9d1d9&langs_count=6&cache_seconds=86400" width="33%"/>
-</a>
+<img src="https://readmestats-nine.vercel.app/api/top-langs/?username=zeedan991&layout=compact&hide_border=true&bg_color=0d1117&title_color=CC0000&text_color=c9d1d9&langs_count=8&cache_seconds=86400&card_width=500"/>
 
 </div>
 
 ---
 
-## 📈 &nbsp;Contribution Timeline
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeedan991&bg_color=0d1117&color=CC0000&line=B50000&point=ffffff&area=true&area_color=B5000033&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeedan991&bg_color=0d1117&color=CC0000&line=B50000&point=ffffff&area=true&area_color=B5000033&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+</div>
+
+---
+
+## 💡 Philosophy
+
+<div align="center">
+
+<br/>
+
+> *"Any fool can write code that a computer can understand.  
+> Good programmers write code that humans can understand."*  
+> **— Martin Fowler**
+
+<br/>
+
+### 🏆 Principles He Codes By
+
+**Clean Code** • **Test-Driven Development** • **Continuous Learning**  
+**Scalable Architecture** • **Performance Optimization** • **User-Centric Design**
+
+<br/>
+
 </div>
 
 ---
 
 <div align="center">
 
-<br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
+### 🌟 Visitor Count
 
 <a href="https://github.com/zeedan991">
 <img src="https://komarev.com/ghpvc/?username=zeedan991&color=B50000&style=for-the-badge&label=PROFILE+VIEWS"/>
@@ -143,6 +145,6 @@ TypeScript: <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:B50000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:B50000&height=120&section=footer" width="100%"/>
 
 </div>
