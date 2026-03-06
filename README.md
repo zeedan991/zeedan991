@@ -60,10 +60,9 @@ By day, he architects **Spring Boot microservices** and designs RESTful APIs. By
 ### **AI & Data Science**
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 
 ### **DevOps & Tools**
-<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode,postman&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,idea,vscode&theme=dark" /></a>
 
 </div>
 
@@ -78,7 +77,6 @@ By day, he architects **Spring Boot microservices** and designs RESTful APIs. By
 - TensorFlow & PyTorch
 - MongoDB & NoSQL databases
 - Kubernetes & Cloud platforms
-- TypeScript
 
 </div>
 </details>
@@ -111,28 +109,23 @@ By day, he architects **Spring Boot microservices** and designs RESTful APIs. By
 </div>
 
 ---
-
 ## 💡 Philosophy
 
 <div align="center">
 
 <br/>
 
-> *"Any fool can write code that a computer can understand.  
-> Good programmers write code that humans can understand."*  
-> **— Martin Fowler**
+> *"The value of every man is in the excellence of what he does."* > **— Ali ibn Abi Talib (RA)**
 
 <br/>
 
-### 🏆 Principles He Codes By
+### My Core Principles
 
-**Clean Code** • **Test-Driven Development** • **Continuous Learning**  
-**Scalable Architecture** • **Performance Optimization** • **User-Centric Design**
+**Simplicity** • **Integrity** **Scalable Logic** • **Meaningful Impact** • **Continuous Growth**
 
 <br/>
 
 </div>
-
 ---
 
 <div align="center">
