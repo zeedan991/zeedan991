@@ -112,27 +112,19 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=B50000&fire=CC0000&currStreakLabel=CC0000&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff&card_width=500" width="55%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zeedan991&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zeedan991&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zeedan991&theme=github_dark&utcOffset=5.5" width="32%"/>
 
 </div>
 
 <div align="center">
 <br/>
-
-<img src="https://readmestats-nine.vercel.app/api/top-langs/?username=zeedan991&layout=compact&hide_border=true&bg_color=0d1117&title_color=CC0000&text_color=c9d1d9&langs_count=8&cache_seconds=86400&card_width=500"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeedan991&bg_color=0d1117&color=CC0000&line=B50000&point=ffffff&area=true&area_color=B5000033&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeedan991&theme=github_dark" width="98%"/>
 </div>
 
 ---
@@ -143,9 +135,9 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 <br/>
 
-> *"The value of every man is in the excellence of what he does."*
-> 
-> **— Ali ibn Abi Talib (RA)**
+<h2><i>"The value of every man is in the excellence of what he does."</i></h2>
+
+<h4>— Ali ibn Abi Talib (RA)</h4>
 
 <br/>
 
