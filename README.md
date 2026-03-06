@@ -105,31 +105,29 @@ Currently expanding into **Machine Learning and Deep Learning**, applying framew
 
 <div align="center">
 
-<a href="https://github.com/zeedan991"><img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="53%"/></a>
+<a href="https://github.com/zeedan991"><img src="https://github-readme-streak-stats.herokuapp.com?user=zeedan991&hide_border=true&background=0d1117&ring=B50000&fire=CC0000&currStreakLabel=CC0000&sideLabels=c9d1d9&dates=555555&currStreakNum=ffffff&sideNums=ffffff" width="53%"/></a>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<a href="https://github.com/zeedan991"><img src="https://readmestats-nine.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" width="49%"/></a>
-<a href="https://github.com/zeedan991"><img src="https://readmestats-nine.vercel.app/api/top-langs/?username=zeedan991&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="40%"/></a>
-
-</div>
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/zeedan991"><img src="https://readmestats-nine.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=CC0000&icon_color=B50000&text_color=c9d1d9&ring_color=B50000&cache_seconds=86400" width="420"/></a>
+</td>
+<td>
+<a href="https://github.com/zeedan991"><img src="https://readmestats-nine.vercel.app/api/top-langs/?username=zeedan991&layout=donut-vertical&hide_border=true&bg_color=0d1117&title_color=CC0000&text_color=c9d1d9&langs_count=6&cache_seconds=86400" width="300"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
 ## Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeedan991&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zeedan991&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zeedan991&bg_color=0d1117&color=CC0000&line=B50000&point=CC0000&area=true&area_color=B50000&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
 </div>
 
 ---
