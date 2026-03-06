@@ -16,13 +16,12 @@
 
 <a href="https://github.com/zeedan991"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/zeedankhatik"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="mailto:zeedankhatik@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Him
+## 👨‍💻 About
 
 <img align="right" src="https://raw.githubusercontent.com/zeedan991/zeedan991/main/batman.jpg" width="280" style="border-radius: 15px; margin-left: 20px;"/>
 
@@ -48,47 +47,47 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
 
 ## 🛠️ Tech Stack
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="right" width="120"><sub><b>Languages</b></sub></td>
+    <td align="right" width="120"><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=4B8BBE"/>
-      <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat&logo=python&logoColor=4B8BBE"/>
+      <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat&logo=javascript&logoColor=F7DF1E"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><sub><b>Backend</b></sub></td>
+    <td align="right"><b>Backend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-CC0000?style=flat-square&logo=springboot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-CC0000?style=flat&logo=springboot&logoColor=white"/>
+      <img src="https://img.shields.io/badge/REST_APIs-1a1a2e?style=flat&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat&logo=mysql&logoColor=4479A1"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><sub><b>Frontend</b></sub></td>
+    <td align="right"><b>Frontend</b></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26"/>
-      <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6"/>
-      <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/HTML5-1a1a2e?style=flat&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS3-1a1a2e?style=flat&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/JavaScript-1a1a2e?style=flat&logo=javascript&logoColor=F7DF1E"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><sub><b>AI / Data</b></sub></td>
+    <td align="right"><b>AI / Data</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=150458"/>
-      <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=013243"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-CC0000?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat&logo=numpy&logoColor=013243"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-CC0000?style=flat&logo=scikitlearn&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td align="right"><sub><b>DevOps</b></sub></td>
+    <td align="right"><b>DevOps</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED"/>
-      <img src="https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032"/>
-      <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-CC0000?style=flat-square&logo=intellijidea&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+      <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat&logo=docker&logoColor=2496ED"/>
+      <img src="https://img.shields.io/badge/Git-1a1a2e?style=flat&logo=git&logoColor=F05032"/>
+      <img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-CC0000?style=flat&logo=intellijidea&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS_Code-1a1a2e?style=flat&logo=visualstudiocode&logoColor=007ACC"/>
     </td>
   </tr>
 </table>
@@ -118,44 +117,43 @@ Currently, I'm bridging the gap between traditional software engineering and Mac
   <tr>
     <td width="50%" valign="top" style="padding: 8px;">
 
-**[📦 Spring Inventory API](https://github.com/zeedan991)**
-> Production-grade REST API for inventory management built with Spring Boot. Features JWT authentication, role-based access control, and optimized MySQL queries handling 10k+ records.
-
-<img src="https://img.shields.io/badge/Spring_Boot-CC0000?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/JWT-1a1a2e?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+**[🎲 Snake and Ladder](https://github.com/zeedan991/snake-and-ladder)**
+> Classic Snake and Ladder game built in Java. Implements full game logic — random dice rolls, snake/ladder position mapping, multi-player turn handling, and win detection.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pygame-111111?style=flat&logo=python&logoColor=white"/>
 
   </td>
     <td width="50%" valign="top" style="padding: 8px;">
 
-**[🤖 ML Price Predictor](https://github.com/zeedan991)**
-> End-to-end machine learning pipeline for price prediction. Includes data preprocessing, feature engineering, model training with Scikit-learn, and a lightweight Flask inference endpoint.
+**[🎓 Student Management System](https://github.com/zeedan991/student-management)**
+> Full-featured student management backend built with Java and Spring Boot. Handles student records, course enrollment, attendance tracking, and grade management via REST APIs.
 
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=4B8BBE"/>
-<img src="https://img.shields.io/badge/Scikit--learn-CC0000?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-1a1a2e?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/OOP-1a1a2e?style=flat&logo=openjdk&logoColor=white"/>
 
   </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 8px;">
 
-**[🗄️ Student Portal Backend](https://github.com/zeedan991)**
-> RESTful backend service for a student management system. Built with Spring Boot and Hibernate ORM — handles CRUD operations, attendance tracking, and grade management.
+**[👾 Youngin](https://github.com/zeedan991/Youngin)**
+> A personal project — built with a focus on clean code structure and practical functionality. Reflects early full-stack thinking with HTML, CSS and JavaScript.
 
-<img src="https://img.shields.io/badge/Java-CC0000?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-1a1a2e?style=flat-square&logo=hibernate&logoColor=59666C"/>
-<img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/HTML5-1a1a2e?style=flat&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-1a1a2e?style=flat&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-CC0000?style=flat&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
   </td>
     <td width="50%" valign="top" style="padding: 8px;">
 
-**[📊 Data Pipeline CLI](https://github.com/zeedan991)**
-> Command-line tool for automating ETL workflows — ingests raw CSV/JSON data, applies transformation rules, and outputs clean datasets ready for analysis or model training.
+**[🧮 Calculator](https://github.com/zeedan991/calculator)**
+> Clean, functional calculator app. Built to practice core frontend fundamentals — DOM manipulation, event handling, and expression evaluation logic without any external libraries.
 
-<img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=4B8BBE"/>
-<img src="https://img.shields.io/badge/NumPy-1a1a2e?style=flat-square&logo=numpy&logoColor=013243"/>
-<img src="https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-CC0000?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swing-007396?style=flat&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWT-5382a1?style=flat&logo=java&logoColor=white"/>
 
   </td>
   </tr>
