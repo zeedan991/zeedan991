@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=B50000&height=200&section=header&text=Zedaan%20Khatik&fontSize=50&fontColor=ffffff&animation=fadeIn&stroke=B50000&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:B50000&height=160&section=header&text=Zedaan%20Khatik&fontSize=42&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=Software%20Engineer&descSize=16&descColor=cccccc&descAlignY=68" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Software+Engineer+%7C+Full+Stack+Developer;Building+scalable+systems+with+clean+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=60&lines=Full+Stack+Developer+%7C+Backend+Enthusiast;Building+scalable+systems+with+clean+code)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ### &nbsp;About Me
 
-Computer Engineering student and Full Stack Developer specializing in backend systems, API architecture, and scalable web applications. I build across the entire stack — from responsive React interfaces to robust Spring Boot services and .NET APIs.
+Computer Engineering student and Full Stack Developer specializing in backend systems, API architecture, and scalable web applications. I build across the entire stack — from responsive interfaces to robust Spring Boot services.
 
 Currently deepening my expertise in **Machine Learning** and working with data-driven frameworks to solve real-world problems.
 
@@ -45,45 +45,54 @@ Currently deepening my expertise in **Machine Learning** and working with data-d
 <tr>
 <td align="center" width="140"><b>Languages</b></td>
 <td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,js,cpp&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" /></a>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
 <td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=html,css&theme=dark" /></a>
 </td>
 </tr>
 <tr>
 <td align="center"><b>Backend</b></td>
 <td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=spring,nodejs,dotnet&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=spring&theme=dark" /></a>
 </td>
 </tr>
 <tr>
 <td align="center"><b>AI / Data</b></td>
 <td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /></a>
-&nbsp;
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </td>
 </tr>
 <tr>
-<td align="center"><b>DevOps</b></td>
+<td align="center"><b>Tools</b></td>
 <td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark" /></a>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Databases</b></td>
-<td align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,mysql,git,github,idea,vscode&theme=dark" /></a>
 </td>
 </tr>
 </table>
 
 </div>
+
+<!-- 
+=== COMMENTED OUT — Add these back when you learn them ===
+
+React:      <a href="#"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+Bootstrap:  <a href="#"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" /></a>
+Node.js:    <a href="#"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></a>
+.NET:       <a href="#"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a>
+TensorFlow: <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" /></a>
+PyTorch:    <a href="#"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></a>
+MongoDB:    <a href="#"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
+Linux:      <a href="#"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
+C++:        <a href="#"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+TypeScript: <a href="#"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+
+=== END COMMENTED OUT ===
+-->
 
 ---
 
