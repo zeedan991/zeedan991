@@ -113,8 +113,8 @@ Currently expanding into **Machine Learning and Deep Learning**, applying framew
 
 <div align="center">
 
-<a href="https://github.com/zeedan991"><img src="https://github-readme-stats-zeedan991s-projects.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" width="49%"/></a>
-<a href="https://github.com/zeedan991"><img src="https://github-readme-stats-zeedan991s-projects.vercel.app/api/top-langs/?username=zeedan991&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="40%"/></a>
+<a href="https://github.com/zeedan991"><img src="https://readmestats-nine.vercel.app/api?username=zeedan991&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" width="49%"/></a>
+<a href="https://github.com/zeedan991"><img src="https://readmestats-nine.vercel.app/api/top-langs/?username=zeedan991&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="40%"/></a>
 
 </div>
 
